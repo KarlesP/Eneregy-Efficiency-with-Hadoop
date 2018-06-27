@@ -26,7 +26,7 @@ We used Cloudera CDH4 for Apache Hadoop, Pig, Hive, Flume, Ozzie and Cloudera Im
 
 ## Software Architecture
 
-![alt tag](https://github.com/hazznain/BigData_for_Energy_Efficiency/blob/master/images/iplatform.png)
+![alt tag](https://github.com/KarlesP/Energy-Efficiency-with-Big-Data/blob/master/images/iplatform.png)
 
 ##Implementation
 ###Cloudera CDH4
@@ -41,11 +41,11 @@ Following steps can be used to analyze the data for given use cases. These steps
 
 1. Download material in this reposiroty using following command. (Git installation is a pre-requisite)
 
-`git clone https://github.com/hazznain/BigData_for_Energy_Efficiency`
+`git clone https://github.com/KarlesP/Energy-Efficiency-with-Big-Data`
 
 2. Extract and copy the data to HDFS
 
-`cd BigData_for_Energy_Efficiency/`
+`cd Energy-Efficiency-with-Big-Data`
 
 `unzip data.zip`
 
@@ -91,7 +91,7 @@ The output file should have following columns
 
 The output graph should look like this
 
-![alt tag](https://github.com/hazznain/BigData_for_Energy_Efficiency/blob/master/images/K-means.bmp)
+![alt tag](https://github.com/KarlesP/Energy-Efficiency-with-Big-Data/blob/master/images/K-means.bmp)
 
 Each point in the scatter plot represented by a hollow circle shows ennergy effeciency of a building in a particular month (January to November 2013). The size of the circle represents the size of the building while the color of the circle represents the respective cluster / class in terms of energy effeciency. The change in behaviour of the building within an year can be explained well by introducing some interactivity to this graph.
 
