@@ -1,4 +1,4 @@
-BigData_for_Energy_Efficiency
+Energy Efficiency with Big Data (Hadoop and R)
 =============================
 ####Some outdated information because of the new releases of the SW components####
 
